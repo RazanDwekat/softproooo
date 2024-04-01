@@ -576,13 +576,7 @@ static String WINDOW=" An error occurred while opening a new window:";
             }
         } catch (SQLException e) {
             e.printStackTrace();
-        } finally {
-            try {
-                if (resultSet != null) resultSet.close();
-                if (statement != null) statement.close();
-            } catch (SQLException e) {
-                e.printStackTrace();
-            }
+
         }
         return hallId;
     }
@@ -1223,14 +1217,7 @@ static String WINDOW=" An error occurred while opening a new window:";
             hallTableView.setItems(halls);
         } catch (SQLException e) {
             e.printStackTrace();
-        } finally {
-            try {
-                if (resultSet != null) resultSet.close();
-                if (statement != null) statement.close();
-                if (conn != null) conn.close();
-            } catch (SQLException e) {
-                e.printStackTrace();
-            }
+
         }
     }
     @FXML
@@ -4496,13 +4483,7 @@ static String WINDOW=" An error occurred while opening a new window:";
             }
         } catch (SQLException e) {
             e.printStackTrace();
-        } finally {
-            try {
-                if (preparedStatement != null) preparedStatement.close();
-                if (connection != null) connection.close();
-            } catch (SQLException e) {
-                e.printStackTrace();
-            }
+
         }
     }
 }
