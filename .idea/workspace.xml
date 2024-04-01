@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93258a7d-5283-4af9-a5e7-09a63f91b7e3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HallDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HallDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HelloController3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HelloController3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HelloController4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/HelloController4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/signup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/projectsoftware/signup.java" afterDir="false" />
     </list>
@@ -131,6 +128,8 @@
       <workItem from="1711801716909" duration="62000" />
       <workItem from="1711888801290" duration="3097000" />
       <workItem from="1711894489795" duration="1739000" />
+      <workItem from="1711896979722" duration="125000" />
+      <workItem from="1711910753009" duration="2752000" />
     </task>
     <servers />
   </component>
